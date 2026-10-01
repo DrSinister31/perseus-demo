@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.env
+*.key
+*.pem
+token
+.hf_token
+
+# Build output
+bin/
+obj/
+dist/
+*.exe
+*.dll
+
+# Local
+.vs/
+.vscode/
+*.user
