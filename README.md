@@ -6,6 +6,12 @@ Perseus is a wave-dynamic AI runtime from **Aporia Nous Computing**. It is not a
 
 This repository is the public home of the **Perseus interactive demo** — the fastest way to see the runtime work on your own machine.
 
+## Links
+
+- **Website** — <https://aporianous.com>
+- **Discord** — <https://discord.gg/NdwDuAnsfD>
+- **GitHub** — <https://github.com/DrSinister31/perseus-demo>
+
 ---
 
 ## Why
