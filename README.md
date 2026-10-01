@@ -9,7 +9,7 @@ This repository is the public home of the **Perseus interactive demo** — the f
 ## Links
 
 - **Website** — <https://aporianous.com>
-- **Discord** — <https://discord.gg/NdwDuAnsfD>
+- **Discord** — <https://discord.gg/3Tcfxxq9VA>  *(GitHub invite)*
 - **GitHub** — <https://github.com/DrSinister31/perseus-demo>
 
 ---
