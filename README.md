@@ -51,6 +51,8 @@ Aporia Nous Computing is the company of founder **DeAli Dillard** (Sioux Falls, 
 
 Contact: **ddillard@aporianous.com**
 
+Investors: **invest@aporianous.com**
+
 ---
 
 *© Aporia Nous Computing. Perseus and Morpheus are projects of Aporia Nous Computing.*
